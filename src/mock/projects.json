@@ -1,0 +1,77 @@
+[
+  {
+    "id": "unique-project-id",
+    "name": "Project Name",
+    "description": "Detailed description of the project",
+    "startDate": "2022-01-01",
+    "endDate": "2022-12-31",
+    "tasks": [
+      {
+        "id": "unique-task-id",
+        "name": "Task 1",
+        "description": "Detailed description of the task",
+        "startDate": "2022-01-01",
+        "endDate": "2022-12-31",
+        "status": "in-progress"
+      },
+      {
+        "id": "unique-task-id",
+        "name": "Task 2",
+        "description": "Detailed description of the task",
+        "startDate": "2022-01-01",
+        "endDate": "2022-12-31",
+        "status": "completed"
+      }
+    ]
+  },
+  {
+    "id": "unique-project-id",
+    "name": "Project Name",
+    "description": "Detailed description of the project",
+    "startDate": "2022-01-01",
+    "endDate": "2022-12-31",
+    "tasks": [
+      {
+        "id": "unique-task-id",
+        "name": "Task 1",
+        "description": "Detailed description of the task",
+        "startDate": "2022-01-01",
+        "endDate": "2022-12-31",
+        "status": "in-progress"
+      },
+      {
+        "id": "unique-task-id",
+        "name": "Task 2",
+        "description": "Detailed description of the task",
+        "startDate": "2022-01-01",
+        "endDate": "2022-12-31",
+        "status": "completed"
+      }
+    ]
+  },
+  {
+    "id": "unique-project-id",
+    "name": "Project Name",
+    "description": "Detailed description of the project",
+    "startDate": "2022-01-01",
+    "endDate": "2022-12-31",
+    "tasks": [
+      {
+        "id": "unique-task-id",
+        "name": "Task 1",
+        "description": "Detailed description of the task",
+        "startDate": "2022-01-01",
+        "endDate": "2022-12-31",
+        "status": "in-progress"
+      },
+      {
+        "id": "unique-task-id",
+        "name": "Task 2",
+        "description": "Detailed description of the task",
+        "startDate": "2022-01-01",
+        "endDate": "2022-12-31",
+        "status": "completed"
+      }
+    ]
+  }
+]
